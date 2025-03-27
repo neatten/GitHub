@@ -1,12 +1,31 @@
-## Hi there 👋
+# 🎵 Nicztin's Music & Projects 🎵  
 
-<!--
+Welcome to my official pages! Explore my music, websites, and development projects.  
 
-**Here are some ideas to get you started:**
+## 🎶 Listen to My Music  
+You can stream my latest tracks here:  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Audiomack**: [Nicztin on Audiomack](https://audiomack.com/nicztin)  
+- **SoundCloud**: [Nicztin on SoundCloud](https://on.soundcloud.com/msjfhtR9k43m3yyu8)  
+
+![Music Vibes](https://source.unsplash.com/featured/?music,headphones,dj)  
+
+## 🌐 My Websites & Projects  
+Check out my websites and development projects:  
+
+- **Nicztin Official Site**: [Visit Here](https://nicztin.com)  
+- **Tech & Education Blog**: [niing.ghost.io](https://niing.ghost.io)  
+- **NE ATTEN Jewelry & Watch**: [Shop Now](https://lnk.bio/neatten)  
+- **Web & AI Projects**: [Explore More](https://vercel.com/nicztin)  
+
+## ✨ About Me  
+I specialize in music production, web development, AI projects, and digital creativity. Follow my journey and stay updated!  
+
+🔗 **Follow me on Social Media**  
+[YouTube](https://www.youtube.com/@nicztin1738) |  
+[Instagram](https://www.instagram.com/newatten) |  
+[Pinterest](https://www.pinterest.com/nicztyn)  
+
+---
+
+© 2025 Nicztin. All rights reserved.
