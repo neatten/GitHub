@@ -3,7 +3,11 @@
 Welcome to my official pages! Explore my music, websites, and development projects.  
 
 ## 🎶 Listen to My Music  
-You can stream my latest tracks here:  
+You can stream my latest tracks here: 
+
+[![Watch on YouTube](https://img.youtube.com/vi/lfYltksdKD4/0.jpg)](https://youtu.be/lfYltksdKD4?si=Dqi6VRIuMAJ04IsY)
+
+
 
 - **Audiomack**: [Nicztin on Audiomack](https://audiomack.com/nicztin)  
 - **SoundCloud**: [Nicztin on SoundCloud](https://on.soundcloud.com/msjfhtR9k43m3yyu8)  
