@@ -13,7 +13,7 @@ You can stream my latest tracks here:
 ## 🌐 My Websites & Projects  
 Check out my websites and development projects:  
 
-- **Nicztin Official Site**: [Visit Here](https://nicztin.com)  
+- **Nicztin Official Site**: [Visit Here](https://nicztin.netlify.app/)
 - **Tech & Education Blog**: [niing.ghost.io](https://niing.ghost.io)  
 - **NE ATTEN Jewelry & Watch**: [Shop Now](https://lnk.bio/neatten)  
 - **Web & AI Projects**: [Explore More](https://vercel.com/nicztin)  
