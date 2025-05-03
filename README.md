@@ -22,7 +22,7 @@ Welcome to the official README showcasing all 5 YouTube channels created and man
 
 ## 2. Nicztin Music – Official Music Channel
 
-**Channel Link:** [Nicztin Music](https://youtube.com/@nicztin1738)  
+**Channel Link:** [Nicztin Music](https://youtube.com/@nicztinmusic)  
 **Focus:** Original music compositions, visualizers, and beat production. Nicztin handles everything from writing and producing to mixing and mastering.
 
 **Featured Video:**  
